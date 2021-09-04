@@ -3,5 +3,5 @@
 int main()
 {
 	fake_main();
-	std::cout << "JOO";
+	std::cout << "CHUUUUUUUJ";
 }
